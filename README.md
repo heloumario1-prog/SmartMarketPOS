@@ -87,7 +87,7 @@ SmartMarket POS uses MySQL for persistent data storage. The database stores info
 - Sales and sale items
 - Currency configuration
 
-A database diagram is included in the repository as `Diagram - quizdb.jpg`.
+A database diagram is included in the repository as `database-diagram.jpg`.
 
 ## Running the Project
 
